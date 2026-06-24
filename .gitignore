@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+dist/
+.local/
+example page/node_modules/
+example page/dist/
+example page/.local/
+example page/tsconfig*.tsbuildinfo
+example page/vite.config.js
+example page/vite.config.d.ts
+npm-debug.log*

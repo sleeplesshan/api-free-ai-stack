@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gemini Web Automation"
+  short_description: "Build API-free Gemini browser automation demos."
+  default_prompt: "Use this skill to document or build a local Gemini web UI automation demo without paid AI APIs."
